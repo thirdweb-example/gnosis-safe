@@ -56,6 +56,10 @@ const Home: NextPage = () => {
           wallet to your application.
         </p>
 
+        <p className={styles.hint}>
+          Note: this example is configured to the Goerli testnet.
+        </p>
+
         <hr className={styles.divider} />
 
         {/* First, user must connect a personal wallet. */}
