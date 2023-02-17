@@ -2,8 +2,6 @@
 
 This project demonstrates how to use [Gnosis Safe](https://gnosis-safe.io/) with thirdweb using the [useGnosis](https://docs.thirdweb.com/react/react.usegnosis) hook from the [thirdweb React SDK](https://docs.thirdweb.com/react).
 
-Magic Link enables users to connect to your dApp using **email**, **phone number**, or **social login**.
-
 **Check out the Demo here**: https://gnosis-safe.thirdweb-example.com
 
 ## Using This Repo
